@@ -4,6 +4,7 @@
       <!-- <h1>Chit Chapp</h1>
       <p>Realtime voice chat for gentlemen</p> -->
     </header>
+    <div></div>
     <router-view></router-view>
   </div>
 </template>
